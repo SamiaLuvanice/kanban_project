@@ -1,0 +1,39 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Enviar Relatório",
+      "description": "Enviar o relatório semanal para o gerente.",
+      "status": "done",
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "title": "Reunião com a equipe",
+      "description": "Discutir o progresso do projeto e próximos passos.",
+      "status": "done",
+      "priority": "high"
+    },
+    {
+      "id": "3",
+      "title": "Atualizar o site",
+      "description": "Atualizar o conteúdo da página inicial com as últimas notícias.",
+      "status": "done",
+      "priority": "medium"
+    },
+    {
+      "id": "4",
+      "title": "Implementar testes",
+      "description": "Configure the database and create initial tables.",
+      "status": "done",
+      "priority": "medium"
+    },
+    {
+      "id": "f23b",
+      "title": "Estudar Axios",
+      "description": "Não sei muito, mas quero aprender",
+      "status": "done",
+      "priority": "medium"
+    }
+  ]
+}
