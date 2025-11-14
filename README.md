@@ -1,7 +1,7 @@
-**Project**
+**Projeto**
 
-- **Name**: Kanban Project — um exemplo simples de quadro Kanban em React + TypeScript.
-- **Purpose**: Demonstrar gerenciamento de tarefas com frontend em React (Vite + TS) e uma API falsa via `json-server` (usa `db.json`).
+- **Nome**: Kanban Project — um exemplo simples de quadro Kanban em React + TypeScript.
+- **Propósito**: Demonstrar gerenciamento de tarefas com frontend em React (Vite + TS) e uma API falsa via `json-server` (usa `db.json`).
 
 **Features**
 
